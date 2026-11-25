@@ -49,7 +49,8 @@ Pkg.add([
 ## Getting Started
 
 1. Open a terminal and launch Julia in the directory where `main_KEY.jl` is located.
-2. Include the main script to load the codebase:
+2. Create `input` and `output` directories here for loading and storing data.
+3. Include the main script to load the codebase:
 
 ```julia
 include("main_KEY.jl")
